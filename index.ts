@@ -9,7 +9,7 @@ import { createEd25519Signer } from "@x402/stellar";
 
 config();
 
-// ── Environment ────────────────────────────────────────────────────────────────
+// ── Environment ──────────────────────────────────────────────────────────────── 
 
 /**
  * The Stellar G-address that receives USDC payments from callers.
