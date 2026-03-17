@@ -1,1 +1,1 @@
-# x402testorg
+# x402test.org
